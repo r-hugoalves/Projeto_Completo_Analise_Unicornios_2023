@@ -1,4 +1,4 @@
-# Projeto Completo: Analise Unicórnios 2023
+# Projeto Completo: Análise Unicórnios 2023
 
 Nesse projeto, iremos trabalhar de formas simples alguns conceitos importantes: 
 
